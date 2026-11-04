@@ -16,9 +16,6 @@ If you type a different real code, the app tells you which airport that one is (
 
 There is no level picker. Everyone starts on **Easy**: 40 big hubs like SEA, LAX, JFK, LHR, CDG, and HND. Get 8 of your last 10 right and you level up to **Medium** (151 more airports, and the wrong choices come from the same country), then **Advanced** (415 more airports all over the world, and you type the city). Each level up gets a big "Now boarding!" moment. If someone misses almost every question for a while (2 or fewer right out of 10), the app gently steps back one level. Answers that used both hints still earn a star but don't count toward leveling up. The level is remembered between launches.
 
-## Grown-ups screen
-
-Press and hold the **Airport Codes** title on the home screen for 3 seconds, then answer a multiplication question. From there you can set the level or reset progress.
 
 ## Data and credits
 

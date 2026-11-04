@@ -23,8 +23,6 @@ final class AirportModel: ObservableObject {
     @Published var showConfetti = false
     @Published var levelUp: Tier?
     @Published var steppedDown: Tier?
-    @Published var showParentGate = false
-    @Published var showParentScreen = false
 
     private let store: ProgressStore
 
@@ -100,16 +98,6 @@ final class AirportModel: ObservableObject {
     func persist() {
         if let s = session { progress = s.progress }
         try? store.save(progress)
-    }
-
-    func parentSetLevel(_ tier: Tier) {
-        progress.ladder.parentSet(tier)
-        persist()
-    }
-
-    func parentReset() {
-        progress = .fresh
-        persist()
     }
 }
 #endif

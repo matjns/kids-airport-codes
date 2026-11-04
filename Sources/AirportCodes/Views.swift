@@ -26,18 +26,6 @@ struct RootView: View {
             }
         }
         .frame(minWidth: 940, minHeight: 700)
-        .sheet(isPresented: $model.showParentGate) {
-            ParentGate(
-                onPass: {
-                    model.showParentGate = false
-                    model.showParentScreen = true
-                },
-                onCancel: { model.showParentGate = false }
-            )
-        }
-        .sheet(isPresented: $model.showParentScreen) {
-            ParentView(model: model)
-        }
     }
 }
 
@@ -49,8 +37,6 @@ struct HomeView: View {
             Text("✈️ Airport Codes")
                 .font(.system(size: 60, weight: .heavy, design: .rounded))
                 .foregroundStyle(Palette.ink)
-                // Hidden grown-ups door: press and hold the title for 3 seconds.
-                .onLongPressGesture(minimumDuration: 3) { model.showParentGate = true }
             VStack(spacing: 10) {
                 FlapText(text: "SEA LAX JFK LHR", size: 34)
                 Text("Every airport has a 3-letter code. How many can you learn?")
@@ -284,35 +270,4 @@ struct FeedbackCard: View {
     }
 }
 
-struct ParentView: View {
-    @ObservedObject var model: AirportModel
-    @Environment(\.dismiss) private var dismiss
-    @State private var confirmReset = false
-
-    var body: some View {
-        VStack(alignment: .leading, spacing: 18) {
-            Text("Grown-ups").font(.system(size: 28, weight: .bold, design: .rounded))
-            Text("Levels change on their own: 8 right out of the last 10 moves up, and only 2 or fewer right out of 10 steps back down. You can set the level here if needed.")
-                .fixedSize(horizontal: false, vertical: true)
-            Picker("Level", selection: Binding(
-                get: { model.progress.ladder.tier },
-                set: { model.parentSetLevel($0) })) {
-                ForEach(Tier.allCases, id: \.self) { Text($0.title).tag($0) }
-            }
-            .pickerStyle(.segmented)
-            Text("Answered \(model.progress.answered), right \(model.progress.correct), stars \(model.progress.stars), codes collected \(model.progress.learned.count), highest level \(model.progress.ladder.best.title).")
-                .foregroundStyle(.secondary)
-            HStack {
-                Button("Reset progress…") { confirmReset = true }
-                Spacer()
-                Button("Done") { dismiss() }.keyboardShortcut(.defaultAction)
-            }
-        }
-        .padding(28)
-        .frame(width: 520)
-        .confirmationDialog("Start over from Easy and clear stars?", isPresented: $confirmReset) {
-            Button("Reset", role: .destructive) { model.parentReset() }
-        }
-    }
-}
 #endif

@@ -56,7 +56,7 @@ final class CheckingTests: XCTestCase {
 
     private func session(_ mode: QuizMode, level: Tier, seed: UInt64) -> QuizSession {
         var p = AirportProgress()
-        p.ladder.parentSet(level)
+        p.ladder.setTierForTesting(level)
         return QuizSession(mode: mode, progress: p, maker: QuestionMaker(seed: seed))
     }
 
@@ -185,7 +185,7 @@ final class SessionTests: XCTestCase {
 
     func testGentleStepDown() {
         var p = AirportProgress()
-        p.ladder.parentSet(.advanced)
+        p.ladder.setTierForTesting(.advanced)
         var s = QuizSession(mode: .nameToCode, progress: p, maker: QuestionMaker(seed: 11))
         var change: LevelChange?
         for _ in 0..<9 { _ = s.next(); change = s.answer("zzz").levelChange ?? change }
@@ -201,7 +201,7 @@ final class SessionTests: XCTestCase {
         var p = AirportProgress()
         p.stars = 7
         p.learned = ["SEA", "LAX"]
-        p.ladder.parentSet(.medium)
+        p.ladder.setTierForTesting(.medium)
         try store.save(p)
         XCTAssertEqual(store.load(), p)
     }
