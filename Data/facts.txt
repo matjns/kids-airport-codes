@@ -1,0 +1,47 @@
+# CODE|why the code is what it is (true facts only)
+ORD|O'Hare was first called Orchard Field, built on a spot called Orchard Place. The code ORD stayed after it was renamed for pilot Butch O'Hare.
+MCO|Orlando's airport used to be McCoy Air Force Base, named for Colonel Michael McCoy. That's where MCO comes from.
+MSY|New Orleans' airport was called Moisant Field, after early pilot John Moisant, and it was built on the Moisant Stock Yards. MSY = Moisant Stock Yards.
+LAX|Airports used to have two-letter codes. When codes became three letters, Los Angeles kept LA and added an X.
+PDX|Portland got an X too. Like Los Angeles, it had a two-letter code (PD) and added an X when codes became three letters.
+EWR|Codes starting with N were saved for the US Navy, so Newark couldn't start with N and became EWR.
+BNA|Nashville's old airport was Berry Field, named for Colonel Harry Berry. BNA = Berry field NAshville.
+CVG|Cincinnati's airport is actually across the river in Kentucky, near the city of Covington. CVG = CoVinGton.
+GEG|Spokane's airport was once Geiger Field, named for Major Harold Geiger, an early Army pilot.
+MCI|Kansas City International used to be called Mid-Continent International Airport, because it is near the middle of the country. That name gave it MCI.
+OGG|Kahului's code honors Bertram Hogg, a Hawaii aviation pioneer. OGG sounds like Hogg.
+IAD|Dulles was first coded DIA, but DIA looked too much like DCA (the other Washington airport), so it was changed to IAD.
+IAH|IAH stands for Intercontinental Airport of Houston, the airport's original name.
+JFK|JFK is named for President John F. Kennedy. Before that it was Idlewild Airport, with the code IDL.
+LGA|LaGuardia is named for Fiorello La Guardia, a famous mayor of New York City.
+MDW|Chicago Midway was renamed in 1949 to honor the Battle of Midway in World War II.
+SDF|Louisville's airport was called Standiford Field. SDF = StanDiford Field.
+TYS|Knoxville's airport is McGhee Tyson Airport, named for Navy pilot Charles McGhee Tyson. TYS = TYSon.
+BDL|Bradley International is named for Lieutenant Eugene Bradley, a pilot. BDL = BraDLey.
+DAL|Dallas Love Field is named for Lieutenant Moss Lee Love, an Army pilot.
+YVR|Almost every Canadian airport code starts with Y. YVR is Y plus VR for Vancouver.
+YYZ|Toronto Pearson is YYZ: the Canadian Y, plus YZ, the old station code for Malton, the town where the airport was built.
+YUL|Montreal is YUL. Like almost all Canadian codes, it starts with Y.
+LHR|Heathrow is named after Heath Row, a tiny hamlet that was where the airport is now.
+CDG|CDG stands for Charles de Gaulle, a famous French president.
+FCO|Rome's main airport is in the town of Fiumicino. FCO = FiumiCinO.
+ARN|Stockholm's airport is Arlanda. ARN = ARlaNda.
+GIG|Rio's big airport is called Galeão. The code GIG comes from Galeão International.
+EZE|Buenos Aires' international airport is in Ezeiza. EZE = EZEiza.
+LED|St. Petersburg is LED because the city was called Leningrad when the code was given.
+PEK|Beijing is PEK, from Peking, an old way of spelling Beijing in English.
+CAN|Guangzhou is CAN, from Canton, its old English name.
+BOM|Mumbai is BOM, from Bombay, the city's old name.
+MAA|Chennai is MAA, from Madras, the city's old name.
+CCU|Kolkata is CCU, from Calcutta, the city's old name.
+SGN|Ho Chi Minh City is SGN, from Saigon, the city's old name.
+RGN|Yangon is RGN, from Rangoon, the city's old English name.
+PUS|Busan is PUS, from Pusan, an older spelling of the city's name.
+HND|HND is for Haneda, the part of Tokyo where the airport is.
+NRT|NRT is for Narita, the city near Tokyo where the airport is.
+KIX|KIX stands for Kansai International, built on a man-made island in Osaka Bay.
+ITM|Osaka's older airport is in the city of Itami. ITM = ITaMi.
+ICN|ICN is for Incheon, the city near Seoul where the airport is.
+KEF|Iceland's main airport is next to the town of Keflavík, about 50 km from Reykjavík.
+BWI|BWI stands for Baltimore/Washington International.
+DFW|DFW stands for Dallas/Fort Worth. The airport is between the two cities.

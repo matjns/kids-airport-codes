@@ -1,0 +1,302 @@
+# CODE|City shown in the game|other accepted answers (comma separated)
+DFW|Dallas–Fort Worth|dallas,fort worth,dfw
+HNL|Honolulu|oahu
+CDG|Paris|
+FRA|Frankfurt|
+SYD|Sydney|
+NRT|Tokyo|narita
+HND|Tokyo|haneda
+JFK|New York|new york city,nyc
+LGA|New York|new york city,nyc
+EWR|Newark|new york,new jersey
+MSP|Minneapolis|saint paul,st paul,minneapolis st paul
+DCA|Washington, D.C.|washington,dc
+IAD|Washington, D.C.|washington,dc,dulles
+BWI|Baltimore|washington
+CVG|Cincinnati|covington
+OGG|Kahului, Maui|maui,kahului
+STL|St. Louis|saint louis
+RDU|Raleigh–Durham|raleigh,durham
+SNA|Santa Ana|orange county,john wayne
+PVD|Providence|
+KOA|Kona|kailua kona,big island
+LIH|Lihue, Kauai|kauai,lihue
+ITO|Hilo|big island
+JAC|Jackson Hole|jackson
+ONT|Ontario, California|ontario
+YUL|Montreal|montréal
+STN|London|stansted
+LGW|London|gatwick
+LCY|London|
+LTN|London|luton
+MAN|Manchester|
+EDI|Edinburgh|
+BRU|Brussels|
+OSL|Oslo|
+HEL|Helsinki|
+ATH|Athens|
+KEF|Reykjavik|reykjavík,keflavik
+KUL|Kuala Lumpur|
+MNL|Manila|
+TPE|Taipei|
+TSA|Taipei|
+PVG|Shanghai|
+CAN|Guangzhou|canton
+GIG|Rio de Janeiro|rio
+EZE|Buenos Aires|
+AEP|Buenos Aires|
+BOG|Bogotá|bogota
+PTY|Panama City|panama
+SJO|San José|san jose,costa rica
+MXP|Milan|milano
+NCE|Nice|
+LYS|Lyon|
+CTU|Chengdu|
+DPS|Bali|denpasar
+MCT|Muscat|
+MLE|Malé|male,maldives
+PIE|St. Petersburg–Clearwater|st petersburg,clearwater
+CWA|Wausau|mosinee
+OAJ|Jacksonville, North Carolina|jacksonville
+SUN|Sun Valley|hailey
+TRI|Tri-Cities, Tennessee|tri cities,bristol,blountville
+CMI|Champaign|savoy,urbana
+VPS|Fort Walton Beach|destin,valparaiso
+ECP|Panama City Beach|panama city
+GSP|Greenville–Spartanburg|greenville,spartanburg
+BMI|Bloomington–Normal|bloomington
+AVP|Wilkes-Barre/Scranton|scranton,wilkes barre
+XNA|Northwest Arkansas|fayetteville,bentonville,rogers,springdale
+TYS|Knoxville|
+SRQ|Sarasota|bradenton
+MHK|Manhattan, Kansas|manhattan
+PWM|Portland, Maine|portland
+CRW|Charleston, West Virginia|charleston
+CHS|Charleston, South Carolina|charleston
+COU|Columbia, Missouri|columbia
+CAE|Columbia, South Carolina|columbia
+SPI|Springfield, Illinois|springfield
+SGF|Springfield, Missouri|springfield
+ROC|Rochester, New York|rochester
+RST|Rochester, Minnesota|rochester
+FAY|Fayetteville, North Carolina|fayetteville
+JAN|Jackson, Mississippi|jackson
+MLB|Melbourne, Florida|melbourne
+MHT|Manchester, New Hampshire|manchester
+ILM|Wilmington, North Carolina|wilmington
+BHM|Birmingham, Alabama|birmingham
+BHX|Birmingham|
+YXU|London, Ontario|london
+PDX|Portland|portland oregon
+NCL|Newcastle|newcastle upon tyne
+EMA|East Midlands|nottingham,derby,leicester
+JER|Jersey|
+GCI|Guernsey|
+IOM|Isle of Man|
+MRS|Marseille|marseilles
+LIL|Lille|
+RNS|Rennes|
+TRN|Turin|torino
+VRN|Verona|
+BGY|Bergamo|milan
+NAP|Naples|napoli
+VCE|Venice|venezia
+FLR|Florence|firenze
+GOA|Genoa|genova
+CGN|Cologne|köln,koln
+LEJ|Leipzig|
+FKB|Karlsruhe|baden baden
+BSL|Basel|mulhouse
+GRZ|Graz|
+KLU|Klagenfurt|
+GOT|Gothenburg|göteborg,goteborg
+KRK|Kraków|krakow
+LJU|Ljubljana|
+ZAG|Zagreb|
+SKP|Skopje|
+TIA|Tirana|
+OTP|Bucharest|
+ADB|Izmir|i̇zmir
+SAW|Istanbul|
+VVO|Vladivostok|
+LLW|Lilongwe|
+MRU|Mauritius|
+RUN|Réunion|reunion,saint denis
+SEZ|Seychelles|victoria,mahe
+GOI|Goa|
+KNO|Medan|
+ILO|Iloilo|
+CRK|Clark|angeles
+MFM|Macau|macao
+NGO|Nagoya|
+SDJ|Sendai|
+LXA|Lhasa|
+NTL|Newcastle, Australia|newcastle
+SUV|Suva|
+ROR|Palau|koror
+MAJ|Majuro|
+GUM|Guam|
+SPN|Saipan|
+MVD|Montevideo|
+CCS|Caracas|
+PMV|Margarita Island|isla margarita
+ANU|Antigua|
+IPC|Easter Island|rapa nui
+EIS|Tortola|
+GGT|Great Exuma|exuma
+BJX|León, Mexico|leon,guanajuato
+TAM|Tampico|
+ZIH|Ixtapa–Zihuatanejo|ixtapa,zihuatanejo
+LPA|Gran Canaria|
+ACE|Lanzarote|
+FUE|Fuerteventura|
+TFS|Tenerife|
+TFN|Tenerife|
+USM|Ko Samui|koh samui,samui
+JTR|Santorini|
+CHQ|Chania|crete
+KGS|Kos|
+EFL|Kefalonia|
+CFU|Corfu|kerkyra
+CXR|Nha Trang|
+LOP|Lombok|
+CEB|Cebu|
+MZT|Mazatlán|mazatlan
+AYQ|Uluru|ayers rock,yulara
+PQC|Phu Quoc|
+DJE|Djerba|
+ORN|Oran|
+BEN|Benghazi|
+FEZ|Fez|fes
+AGA|Agadir|
+BJL|Banjul|
+FNA|Freetown|
+DWC|Dubai|
+DMM|Dammam|
+EBL|Erbil|arbil
+ELQ|Qassim|buraydah
+CPH|Copenhagen|
+ARN|Stockholm|
+TLV|Tel Aviv|
+OKA|Okinawa|naha
+CTS|Sapporo|
+ITM|Osaka|
+KIX|Osaka|
+GMP|Seoul|
+ICN|Seoul|incheon
+HAN|Hanoi|
+ANF|Antofagasta|
+LSC|La Serena|coquimbo
+CCP|Concepción|concepcion
+LPB|La Paz|el alto
+VVI|Santa Cruz, Bolivia|santa cruz
+STI|Santiago, Dominican Republic|santiago
+SCL|Santiago|santiago de chile
+UVF|Vieux Fort|saint lucia,st lucia
+SLU|Castries|saint lucia,st lucia
+SXM|Sint Maarten|st maarten,saint martin
+STT|St. Thomas|charlotte amalie,saint thomas
+STX|St. Croix|christiansted,saint croix
+GND|Grenada|st georges
+SVD|St. Vincent|kingstown
+SKB|St. Kitts|basseterre
+BON|Bonaire|kralendijk
+CUR|Curaçao|curacao,willemstad
+AUA|Aruba|oranjestad
+POS|Port of Spain|trinidad
+BGI|Barbados|bridgetown
+COR|Córdoba|cordoba
+IGR|Iguazú|puerto iguazu,iguazu falls
+IGU|Foz do Iguaçu|foz do iguacu,iguazu falls
+BRC|Bariloche|san carlos de bariloche
+TUC|Tucumán|tucuman,san miguel de tucuman
+SJD|Los Cabos|san jose del cabo,cabo
+HKT|Phuket|
+DMK|Bangkok|don mueang
+BKK|Bangkok|suvarnabhumi
+KHH|Kaohsiung|
+RMQ|Taichung|
+WUH|Wuhan|
+CSX|Changsha|
+FOC|Fuzhou|
+TAO|Qingdao|
+DLC|Dalian|
+SYX|Sanya|
+HAK|Haikou|
+LHW|Lanzhou|
+TNA|Jinan|
+NNG|Nanning|
+KWE|Guiyang|
+KWL|Guilin|
+WNZ|Wenzhou|
+DLU|Dali|
+URC|Ürümqi|urumqi
+HBA|Hobart|
+LST|Launceston|
+OUL|Oulu|
+SAL|San Salvador|
+CEI|Chiang Rai|
+SPU|Split|
+ATQ|Amritsar|
+GYD|Baku|
+EVN|Yerevan|
+MSQ|Minsk|
+NQZ|Astana|
+PLZ|Gqeberha|port elizabeth
+OIT|Oita|ōita
+NAN|Nadi|fiji
+PPT|Papeete|tahiti
+APW|Apia|samoa
+TBU|Nuku'alofa|tonga
+VLI|Port Vila|vanuatu
+NOU|Nouméa|noumea,new caledonia
+POM|Port Moresby|
+HIR|Honiara|solomon islands
+CUZ|Cusco|cuzco
+MDE|Medellín|medellin
+CTG|Cartagena|
+ADZ|San Andrés|san andres
+MTY|Monterrey|
+PVR|Puerto Vallarta|
+OAX|Oaxaca|
+MID|Mérida|merida
+QRO|Querétaro|queretaro
+SLP|San Luis Potosí|san luis potosi
+CUL|Culiacán|culiacan
+CJS|Ciudad Juárez|ciudad juarez,juarez
+TRC|Torreón|torreon
+FLN|Florianópolis|florianopolis
+BEL|Belém|belem
+MCZ|Maceió|maceio
+SLZ|São Luís|sao luis
+CGB|Cuiabá|cuiaba
+GYN|Goiânia|goiania
+VIX|Vitória|vitoria
+BSB|Brasília|brasilia
+GRU|São Paulo|sao paulo
+MVD|Montevideo|
+ASU|Asunción|asuncion
+NQN|Neuquén|neuquen
+MAA|Chennai|madras
+BOM|Mumbai|bombay
+CCU|Kolkata|calcutta
+BLR|Bengaluru|bangalore
+TRV|Thiruvananthapuram|trivandrum
+IXB|Bagdogra|siliguri
+CGP|Chattogram|chittagong
+SGN|Ho Chi Minh City|saigon
+RGN|Yangon|rangoon
+PEK|Beijing|peking
+PUS|Busan|pusan
+LED|St. Petersburg|saint petersburg,leningrad
+SVO|Moscow|
+DME|Moscow|
+VKO|Moscow|
+CMN|Casablanca|
+DXB|Dubai|
+SSH|Sharm El Sheikh|sharm
+HRG|Hurghada|
+MED|Medina|madinah
+JRO|Kilimanjaro|arusha,moshi
+VFA|Victoria Falls|
+LVI|Livingstone|victoria falls
